@@ -1058,4 +1058,7 @@ Please contact your System Administrator to enable this operation.</value>
   <data name="SettingsView_SearchWatermark" xml:space="preserve">
     <value>Search...</value>
   </data>
+  <data name="SettingsView_SelectedLanguage" xml:space="preserve">
+    <value>Selected Language</value>
+  </data>
 </root>
